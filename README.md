@@ -1,4 +1,4 @@
-# Synchallenge — Tantangan Betaphamine
+﻿# Synchallenge â€” Tantangan Betaphamine
 
 Selamat datang di **Synchallenge**, sebuah platform yang menarik dan edukatif yang dirancang untuk meningkatkan keterampilan Linux Anda melalui serangkaian tantangan interaktif. Dibuat oleh [Naufal Rakha Putra](https://www.naufalrakha.my.id), Synchallenge menyediakan pengalaman belajar praktis bagi pemula maupun pengguna yang sudah berpengalaman.
 
@@ -12,22 +12,22 @@ Repositori ini adalah **repositori tantangan** (external) yang Anda clone saat m
 
 Tantangan Betaphamine terdiri dari **20 level**, masing-masing dirancang untuk mengajarkan Anda aspek tertentu dari Linux. Berikut gambaran singkatnya:
 
-1. **Level 0: Pengaturan dan Inisialisasi** — Clone repositori GitHub dan membuat pengguna bernama `betaphamine`.
-2. **Level 1–5: Navigasi Dasar dan Manajemen Berkas** — Navigasi direktori, daftar file, membuat direktori dan file, serta memindahkan file.
-3. **Level 6–10: Penampilan dan Pengeditan Berkas** — Melihat isi file, mengedit file, menyalin file, menghapus file, serta melihat file tersembunyi.
-4. **Level 11–15: Izin dan Kepemilikan** — Mengubah izin file dan direktori, mengubah kepemilikan file, serta memeriksa izin file.
-5. **Level 16–19: Pencarian dan Informasi Sistem Dasar** — Mencari file, mencari konten file, memeriksa penggunaan disk, menampilkan direktori saat ini, serta menampilkan tanggal dan waktu.
+1. **Level 0: Pengaturan dan Inisialisasi** â€” Clone repositori GitHub dan membuat pengguna bernama `betaphamine`.
+2. **Level 1â€“5: Navigasi Dasar dan Manajemen Berkas** â€” Navigasi direktori, daftar file, membuat direktori dan file, serta memindahkan file.
+3. **Level 6â€“10: Penampilan dan Pengeditan Berkas** â€” Melihat isi file, mengedit file, menyalin file, menghapus file, serta melihat file tersembunyi.
+4. **Level 11â€“15: Izin dan Kepemilikan** â€” Mengubah izin file dan direktori, mengubah kepemilikan file, serta memeriksa izin file.
+5. **Level 16â€“19: Pencarian dan Informasi Sistem Dasar** â€” Mencari file, mencari konten file, memeriksa penggunaan disk, menampilkan direktori saat ini, serta menampilkan tanggal dan waktu.
 
 ## Struktur Repositori
 
 ```
 betaphamine-challange/
-├── README.md              # Panduan tantangan
-├── level1/
-│   └── level1.txt         # Poin keberhasilan (dibaca pada Level 6)
-├── level2/
-│   └── thisnotatext.txt   # File yang harus ditemukan pada Level 2
-└── .hidden                # File tersembunyi (untuk Level 10)
+â”œâ”€â”€ README.md              # Panduan tantangan
+â”œâ”€â”€ level1/
+â”‚   â””â”€â”€ level1.txt         # Poin keberhasilan (dibaca pada Level 6)
+â”œâ”€â”€ level2/
+â”‚   â””â”€â”€ thisnotatext.txt   # File yang harus ditemukan pada Level 2
+â””â”€â”€ .hidden                # File tersembunyi (untuk Level 10)
 ```
 
 Folder `level3`, `level4`, dan `level5` **dibuat sendiri oleh Anda** saat menyelesaikan level tersebut, sama seperti perintah-perintah yang Anda pelajari.
@@ -43,11 +43,11 @@ Folder `level3`, `level4`, dan `level5` **dibuat sendiri oleh Anda** saat menyel
 
 2. Setiap level memberikan **tantangan** dan **kriteria keberhasilan**. Selesaikan tantangan dengan perintah Linux yang sesuai.
 3. Poin keberhasilan setiap level adalah file/teks yang tampil setelah tantangan terselesaikan.
-4. Gunakan [halaman web Synchallenge](https://synchallenge.smc.great-site.net) untuk melihat panduan setiap level dan melacak kemajuan Anda.
+4. Gunakan [halaman web Synchallenge](https://synchallenge.naufalrakha.my.id) untuk melihat panduan setiap level dan melacak kemajuan Anda.
 
 ## Platform Web
 
-Kunjungi [Synchallenge](https://synchallenge.smc.great-site.net) untuk mengakses seluruh rangkaian tantangan, melacak kemajuan Anda, dan bergabung dengan komunitas penggemar Linux kami.
+Kunjungi [Synchallenge](https://synchallenge.naufalrakha.my.id) untuk mengakses seluruh rangkaian tantangan, melacak kemajuan Anda, dan bergabung dengan komunitas penggemar Linux kami.
 
 ## Berkontribusi
 
@@ -59,4 +59,5 @@ Untuk pertanyaan atau dukungan, hubungi kami di [naufalrakha2712@gmail.com](mail
 
 Selamat belajar!
 
-_© 2024 [Naufal Rakha Putra](https://www.naufalrakha.my.id)_
+_Â© 2024 [Naufal Rakha Putra](https://www.naufalrakha.my.id)_
+
